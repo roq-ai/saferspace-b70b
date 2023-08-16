@@ -1,0 +1,1432 @@
+[
+  {
+    "report": [
+      {
+        "id": "d85b5e20-c4be-4aa8-8fec-5e773b55d271",
+        "date_time": "2023-08-16T06:44:03.739Z",
+        "type_of_issue": "Bug",
+        "description": "This is a description of the issue",
+        "location": "Homepage",
+        "status": "Open",
+        "created_at": "2023-08-16T04:59:11.891Z",
+        "updated_at": "2023-08-15T16:23:14.294Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "44cdcf01-2a85-4691-8b22-4499f3578541",
+        "date_time": "2023-08-16T05:21:11.891Z",
+        "type_of_issue": "Error",
+        "description": "The problem occurred during testing",
+        "location": "Dashboard",
+        "status": "In Progress",
+        "created_at": "2023-08-15T22:52:30.119Z",
+        "updated_at": "2023-08-16T06:15:24.623Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "368f0750-1de0-42f3-bd9f-92bfea0d0595",
+        "date_time": "2023-08-16T07:19:27.533Z",
+        "type_of_issue": "Issue",
+        "description": "The bug affects the functionality",
+        "location": "Settings",
+        "status": "Resolved",
+        "created_at": "2023-08-16T00:23:09.030Z",
+        "updated_at": "2023-08-15T22:41:11.716Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "8562aec5-2e26-49dc-a7f0-553c149a1933",
+        "date_time": "2023-08-16T06:44:22.232Z",
+        "type_of_issue": "Problem",
+        "description": "Error message displayed is incorrect",
+        "location": "Profile",
+        "status": "Closed",
+        "created_at": "2023-08-16T05:10:25.807Z",
+        "updated_at": "2023-08-16T07:30:58.665Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "1abe91d1-e644-43d7-9a33-59b24b620a62",
+        "date_time": "2023-08-15T13:14:09.313Z",
+        "type_of_issue": "Defect",
+        "description": "Issue needs to be resolved",
+        "location": "Reports",
+        "status": "Pending",
+        "created_at": "2023-08-16T02:39:21.016Z",
+        "updated_at": "2023-08-16T00:53:27.335Z",
+        "reporter_id": "user_entity_pk"
+      }
+    ],
+    "feedback": [
+      {
+        "id": "57c01190-d19a-40b2-b75b-1e147d0acd5d",
+        "message": "Great job!",
+        "created_at": "2023-08-15T22:32:22.842Z",
+        "updated_at": "2023-08-15T20:40:42.497Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "56ffa7d3-aabe-42bf-b132-f3c92d89d3e3",
+        "message": "I have a suggestion",
+        "created_at": "2023-08-16T00:50:12.737Z",
+        "updated_at": "2023-08-15T18:44:12.471Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0e9504a4-345d-4ea2-98e0-b36de3448d6e",
+        "message": "The service is excellent",
+        "created_at": "2023-08-15T14:24:39.624Z",
+        "updated_at": "2023-08-16T05:57:25.739Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "48df639e-3518-454e-98fc-33bd17bfd88b",
+        "message": "Please improve the user interface",
+        "created_at": "2023-08-15T19:51:56.645Z",
+        "updated_at": "2023-08-15T18:21:09.565Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "96d74aae-a3e9-4061-9199-f8a225d35b67",
+        "message": "Thank you for your assistance",
+        "created_at": "2023-08-16T04:44:03.177Z",
+        "updated_at": "2023-08-15T12:43:25.704Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "97f92417-de94-45c7-85c4-8be7a4b06b11",
+        "email": "Janis.McKenzie99@yahoo.com",
+        "firstName": "Alphonso",
+        "lastName": "Jacobs",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/623.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7340e0e9-a886-4cea-a5f6-344d51f0751b",
+        "email": "Avis_Gibson8@gmail.com",
+        "firstName": "Vesta",
+        "lastName": "Wolff",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29073531",
+        "tenantId": null
+      },
+      {
+        "reference": "3b3a0861-d89f-499d-8552-31dfc28136c5",
+        "email": "Daphnee40@gmail.com",
+        "firstName": "Alverta",
+        "lastName": "Keeling",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/395.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "557c6b0e-58cc-47ed-a88a-6102dabf80dc",
+        "email": "Herminio_Rosenbaum74@hotmail.com",
+        "firstName": "Adella",
+        "lastName": "Lockman",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/647.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "771e412c-c400-4aee-ab1f-fee1cd494535",
+        "email": "Archibald_Carter-Fahey@hotmail.com",
+        "firstName": "Misael",
+        "lastName": "Willms",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/156.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "report": [
+      {
+        "id": "78bb332c-5399-486d-8a5e-1b563470717b",
+        "date_time": "2023-08-16T01:35:33.682Z",
+        "type_of_issue": "Bug",
+        "description": "This is a description of the issue",
+        "location": "Homepage",
+        "status": "Open",
+        "created_at": "2023-08-16T03:48:25.214Z",
+        "updated_at": "2023-08-16T07:26:20.818Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "dbdb3424-a531-4e3c-9787-41b3a7caf6a9",
+        "date_time": "2023-08-15T16:04:54.902Z",
+        "type_of_issue": "Error",
+        "description": "The problem occurred during testing",
+        "location": "Settings page",
+        "status": "In Progress",
+        "created_at": "2023-08-16T07:51:33.699Z",
+        "updated_at": "2023-08-15T18:55:23.845Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "5ab71226-f7ff-4809-8329-3a736881e097",
+        "date_time": "2023-08-15T15:01:47.067Z",
+        "type_of_issue": "Issue",
+        "description": "The bug affects the functionality",
+        "location": "Dashboard",
+        "status": "Resolved",
+        "created_at": "2023-08-16T02:42:48.531Z",
+        "updated_at": "2023-08-15T13:56:26.634Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "c4d9e81c-f43b-40e3-bb25-e998ee28a32c",
+        "date_time": "2023-08-15T12:12:39.172Z",
+        "type_of_issue": "Problem",
+        "description": "Error message displayed is incorrect",
+        "location": "Contact form",
+        "status": "Closed",
+        "created_at": "2023-08-16T01:35:41.985Z",
+        "updated_at": "2023-08-16T05:55:53.459Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "191d5121-a16b-42a0-b8bd-0492e829cbe8",
+        "date_time": "2023-08-15T18:07:58.531Z",
+        "type_of_issue": "Defect",
+        "description": "Issue found in the latest release",
+        "location": "Product page",
+        "status": "Pending",
+        "created_at": "2023-08-15T15:50:33.660Z",
+        "updated_at": "2023-08-16T03:36:12.996Z",
+        "reporter_id": "user_entity_pk"
+      }
+    ],
+    "feedback": [
+      {
+        "id": "7183ba81-660d-46a0-82dc-4a2345070da7",
+        "message": "Great job!",
+        "created_at": "2023-08-16T04:26:00.229Z",
+        "updated_at": "2023-08-15T19:56:24.296Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "839cd653-8afe-4f35-aac2-0fc88f0b1ae4",
+        "message": "I have a suggestion",
+        "created_at": "2023-08-16T08:06:34.935Z",
+        "updated_at": "2023-08-16T02:48:16.657Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "48ff1f15-647c-4699-9b09-7312c971b5e4",
+        "message": "The website looks amazing",
+        "created_at": "2023-08-16T10:52:28.719Z",
+        "updated_at": "2023-08-16T09:51:11.953Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e1c5791d-6f0d-4405-a47f-ee8ab3c2519b",
+        "message": "I encountered an issue",
+        "created_at": "2023-08-15T21:46:23.117Z",
+        "updated_at": "2023-08-15T20:56:15.282Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "aecb61c0-d276-474b-89bb-177e844758ad",
+        "message": "Thank you for your support",
+        "created_at": "2023-08-15T15:12:02.159Z",
+        "updated_at": "2023-08-15T21:46:49.037Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "a2899a8e-ba15-447c-ae81-ce8882639aae",
+        "email": "Alexandrea_Wuckert51@gmail.com",
+        "firstName": "Alva",
+        "lastName": "Hettinger",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5732453",
+        "tenantId": null
+      },
+      {
+        "reference": "fa26717e-5f0d-4b3b-a832-73379ace8d49",
+        "email": "Ashly33@yahoo.com",
+        "firstName": "Rudolph",
+        "lastName": "Balistreri",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57326338",
+        "tenantId": null
+      },
+      {
+        "reference": "c4b44902-2d5b-4323-bad5-67dc884c0c2d",
+        "email": "Christina71@gmail.com",
+        "firstName": "Nicolette",
+        "lastName": "Zemlak",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/3039873",
+        "tenantId": null
+      },
+      {
+        "reference": "77f3e2b3-556f-423f-bcd1-4ec0b73ce45a",
+        "email": "Jaycee.Collier@yahoo.com",
+        "firstName": "Barton",
+        "lastName": "Gulgowski",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/87994659",
+        "tenantId": null
+      },
+      {
+        "reference": "8712c189-4d63-4d6c-b37f-7f9f07e86904",
+        "email": "Jordi56@gmail.com",
+        "firstName": "Daniela",
+        "lastName": "Schumm",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/676.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "report": [
+      {
+        "id": "c421977e-99af-4d89-a4c6-8061b6b1412b",
+        "date_time": "2023-08-15T22:19:14.488Z",
+        "type_of_issue": "Bug",
+        "description": "This is a description of the issue",
+        "location": "Homepage",
+        "status": "Open",
+        "created_at": "2023-08-15T22:41:35.510Z",
+        "updated_at": "2023-08-16T04:04:08.151Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "3a5726fe-365f-4a9d-af9f-3fd29d55ad51",
+        "date_time": "2023-08-15T23:38:06.589Z",
+        "type_of_issue": "Error",
+        "description": "The problem occurred during testing",
+        "location": "Settings page",
+        "status": "In Progress",
+        "created_at": "2023-08-16T11:45:47.257Z",
+        "updated_at": "2023-08-15T16:11:16.743Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "255da05a-101b-40e8-b609-e50fcb755756",
+        "date_time": "2023-08-15T20:18:48.922Z",
+        "type_of_issue": "Issue",
+        "description": "The bug affects the functionality",
+        "location": "Contact form",
+        "status": "Resolved",
+        "created_at": "2023-08-15T15:34:58.315Z",
+        "updated_at": "2023-08-15T17:33:36.363Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "4c3d8c71-a3e8-43ec-9d31-346bf0114d3b",
+        "date_time": "2023-08-16T07:00:52.940Z",
+        "type_of_issue": "Problem",
+        "description": "Error message displayed is incorrect",
+        "location": "Product page",
+        "status": "Closed",
+        "created_at": "2023-08-15T16:23:54.102Z",
+        "updated_at": "2023-08-15T15:07:08.525Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "9122cee5-fbe9-44c5-aa44-9a436edcc874",
+        "date_time": "2023-08-15T21:17:50.060Z",
+        "type_of_issue": "Defect",
+        "description": "The issue is reproducible",
+        "location": "Checkout process",
+        "status": "Pending",
+        "created_at": "2023-08-16T05:54:25.496Z",
+        "updated_at": "2023-08-16T08:18:22.004Z",
+        "reporter_id": "user_entity_pk"
+      }
+    ],
+    "feedback": [
+      {
+        "id": "85230602-ce82-4874-aac0-1079384e3ec0",
+        "message": "Great job!",
+        "created_at": "2023-08-15T20:50:27.006Z",
+        "updated_at": "2023-08-16T00:16:18.063Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3c2c4dad-d544-4320-bce0-950ae4df53ed",
+        "message": "I have a suggestion",
+        "created_at": "2023-08-15T18:15:09.548Z",
+        "updated_at": "2023-08-16T03:38:26.959Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4ce7b7f9-29da-4ce7-8aa1-9d4b253d861f",
+        "message": "The service is excellent",
+        "created_at": "2023-08-16T06:23:50.941Z",
+        "updated_at": "2023-08-16T04:21:44.194Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fa2b5b1e-4924-4389-b7f2-fe2069629c53",
+        "message": "Thank you for your support",
+        "created_at": "2023-08-16T02:17:21.737Z",
+        "updated_at": "2023-08-16T00:18:28.304Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3f0402ab-806f-44d4-bb83-dcd7e8aac47a",
+        "message": "I encountered an issue",
+        "created_at": "2023-08-15T22:31:30.901Z",
+        "updated_at": "2023-08-15T14:58:52.576Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "a016f488-f781-46b7-bf6e-8677d81b05e7",
+        "email": "Larue86@yahoo.com",
+        "firstName": "Elijah",
+        "lastName": "Olson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1023.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "943d3bbf-c0fe-4015-a760-9ac6c2589b72",
+        "email": "Elsa_Fisher81@yahoo.com",
+        "firstName": "Deontae",
+        "lastName": "Jacobson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/698.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "834093af-5a59-4f49-84d6-c3c5ea9bb073",
+        "email": "Kariane_Boyle@yahoo.com",
+        "firstName": "Leonora",
+        "lastName": "Fritsch",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/84834288",
+        "tenantId": null
+      },
+      {
+        "reference": "3b4aa6ed-472f-42c6-83f3-e5682fff741a",
+        "email": "Travis_Ziemann@hotmail.com",
+        "firstName": "Antonette",
+        "lastName": "Marquardt",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/26669655",
+        "tenantId": null
+      },
+      {
+        "reference": "824ff7f7-2c43-4c00-8d14-e01f4c96c8a6",
+        "email": "Aglae11@hotmail.com",
+        "firstName": "Bobby",
+        "lastName": "Gleichner",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81078078",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "report": [
+      {
+        "id": "b9f7116b-863e-4922-a27e-4fca9a8d9517",
+        "date_time": "2023-08-16T01:37:46.090Z",
+        "type_of_issue": "Bug",
+        "description": "This is a description of the issue",
+        "location": "Homepage",
+        "status": "Open",
+        "created_at": "2023-08-16T08:02:25.783Z",
+        "updated_at": "2023-08-16T02:55:08.725Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "13afa69b-a808-436b-a992-a2bd7c801e66",
+        "date_time": "2023-08-16T00:06:45.662Z",
+        "type_of_issue": "Error",
+        "description": "The problem occurred during testing",
+        "location": "Dashboard",
+        "status": "In Progress",
+        "created_at": "2023-08-16T07:05:37.600Z",
+        "updated_at": "2023-08-16T07:39:08.517Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "24f95d01-5c13-48c9-b059-a107a824b653",
+        "date_time": "2023-08-16T03:33:02.451Z",
+        "type_of_issue": "Issue",
+        "description": "The bug affects the functionality",
+        "location": "Settings",
+        "status": "Resolved",
+        "created_at": "2023-08-16T04:37:49.617Z",
+        "updated_at": "2023-08-16T10:11:19.538Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "0c96af1a-2b1a-47c5-98b6-c8a640945e79",
+        "date_time": "2023-08-15T23:24:29.471Z",
+        "type_of_issue": "Problem",
+        "description": "Error message displayed is incorrect",
+        "location": "Profile",
+        "status": "Closed",
+        "created_at": "2023-08-15T14:15:33.436Z",
+        "updated_at": "2023-08-15T18:53:20.955Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "9c81af5b-3562-4ac6-967d-2850902a5546",
+        "date_time": "2023-08-15T19:58:42.188Z",
+        "type_of_issue": "Defect",
+        "description": "Issue needs to be resolved",
+        "location": "Reports",
+        "status": "Pending",
+        "created_at": "2023-08-15T23:09:44.286Z",
+        "updated_at": "2023-08-15T15:08:39.056Z",
+        "reporter_id": "user_entity_pk"
+      }
+    ],
+    "feedback": [
+      {
+        "id": "60b933b6-1fc3-4085-a2f9-ed70c0c77680",
+        "message": "Great job!",
+        "created_at": "2023-08-15T22:50:48.947Z",
+        "updated_at": "2023-08-16T09:04:14.240Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ac06064f-4c68-440b-b7a9-77cb348357a6",
+        "message": "I have a suggestion",
+        "created_at": "2023-08-15T20:41:30.871Z",
+        "updated_at": "2023-08-16T09:42:22.822Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "23f99521-6b29-45ca-b9b9-51d783ac720e",
+        "message": "The service is excellent",
+        "created_at": "2023-08-15T17:52:15.433Z",
+        "updated_at": "2023-08-15T13:34:36.988Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "32b93fed-44d3-41c1-a712-aec0f2fc122d",
+        "message": "Please improve the user interface",
+        "created_at": "2023-08-15T22:26:24.824Z",
+        "updated_at": "2023-08-15T15:10:49.078Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bd459a88-703d-4821-89b0-142fad669dff",
+        "message": "Thank you for your assistance",
+        "created_at": "2023-08-15T12:49:57.318Z",
+        "updated_at": "2023-08-16T10:07:43.510Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "b855caf0-2653-4902-88bd-b3ade634fe31",
+        "email": "Christy.Franecki@gmail.com",
+        "firstName": "Cassandra",
+        "lastName": "Jacobi",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/91091580",
+        "tenantId": null
+      },
+      {
+        "reference": "50e717a4-0f1b-4e74-a5fb-181196ee53c9",
+        "email": "Delaney_Baumbach@yahoo.com",
+        "firstName": "Trycia",
+        "lastName": "Hettinger",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/91268511",
+        "tenantId": null
+      },
+      {
+        "reference": "57b1aa0e-884c-4768-a41e-f07c59c185be",
+        "email": "Amos80@gmail.com",
+        "firstName": "Cedrick",
+        "lastName": "Harber",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1045.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "4fef8be6-639e-4d43-802f-28f195c29ab1",
+        "email": "Margarete_Rempel@yahoo.com",
+        "firstName": "Vita",
+        "lastName": "Legros",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/45569450",
+        "tenantId": null
+      },
+      {
+        "reference": "7fbe4448-842e-4639-b54e-ab01f782de44",
+        "email": "Delilah.Kessler@yahoo.com",
+        "firstName": "Jayson",
+        "lastName": "Berge",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/25792185",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "report": [
+      {
+        "id": "600d1849-1634-477d-aeb7-88b712a5001d",
+        "date_time": "2023-08-15T18:50:26.685Z",
+        "type_of_issue": "Bug",
+        "description": "This is a description of the issue",
+        "location": "Homepage",
+        "status": "Open",
+        "created_at": "2023-08-15T19:04:30.118Z",
+        "updated_at": "2023-08-16T10:46:04.441Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "da76a7f3-9399-4568-927e-ac5d17980c9d",
+        "date_time": "2023-08-15T14:23:55.585Z",
+        "type_of_issue": "Error",
+        "description": "The problem occurred during testing",
+        "location": "Dashboard",
+        "status": "In Progress",
+        "created_at": "2023-08-16T01:12:02.549Z",
+        "updated_at": "2023-08-15T15:06:10.702Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "b3f8f316-a78d-4036-96ae-2280586e7c0f",
+        "date_time": "2023-08-16T08:18:16.399Z",
+        "type_of_issue": "Issue",
+        "description": "The bug affects the functionality",
+        "location": "Settings",
+        "status": "Resolved",
+        "created_at": "2023-08-16T06:55:49.428Z",
+        "updated_at": "2023-08-15T13:33:38.287Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "cdc15277-8282-4679-88ab-af946f011868",
+        "date_time": "2023-08-16T09:55:33.924Z",
+        "type_of_issue": "Problem",
+        "description": "Error message displayed is incorrect",
+        "location": "Profile",
+        "status": "Closed",
+        "created_at": "2023-08-15T21:12:43.545Z",
+        "updated_at": "2023-08-15T23:41:25.078Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "2129af40-05b5-44b8-86e5-6ff28d58e9c5",
+        "date_time": "2023-08-15T19:57:48.135Z",
+        "type_of_issue": "Defect",
+        "description": "Issue needs to be resolved",
+        "location": "Reports",
+        "status": "Pending",
+        "created_at": "2023-08-16T11:06:31.306Z",
+        "updated_at": "2023-08-16T04:31:43.211Z",
+        "reporter_id": "user_entity_pk"
+      }
+    ],
+    "feedback": [
+      {
+        "id": "6c22f274-479a-4b51-b6a8-ee04e2a597fc",
+        "message": "Great job!",
+        "created_at": "2023-08-16T05:03:37.931Z",
+        "updated_at": "2023-08-16T06:52:11.758Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "19c0f9c2-3e89-43ca-9254-a9c0553c530d",
+        "message": "I have a suggestion",
+        "created_at": "2023-08-16T08:22:13.887Z",
+        "updated_at": "2023-08-15T22:48:51.000Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "68d235f0-c4e3-4e6f-8130-c90ac7a09293",
+        "message": "The service is excellent",
+        "created_at": "2023-08-15T16:32:22.149Z",
+        "updated_at": "2023-08-15T19:38:54.419Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "45a5fc42-6d7d-4c77-b4e2-679ed58bbbe1",
+        "message": "Please improve the user interface",
+        "created_at": "2023-08-15T17:28:18.792Z",
+        "updated_at": "2023-08-16T04:47:14.046Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "493a5216-2eaf-4302-b793-451447798c35",
+        "message": "Thank you for your assistance",
+        "created_at": "2023-08-16T07:49:18.316Z",
+        "updated_at": "2023-08-16T07:42:41.237Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "8733854e-0225-4f10-bda7-271bb4e3c525",
+        "email": "Tomasa.Schmitt48@yahoo.com",
+        "firstName": "Deontae",
+        "lastName": "Beatty",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/47943173",
+        "tenantId": null
+      },
+      {
+        "reference": "6c0e6ba0-8aa9-491a-8e2b-9760c6adefaa",
+        "email": "Mercedes_Blick60@gmail.com",
+        "firstName": "Jakayla",
+        "lastName": "Monahan",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1194.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b80abfd1-96c3-4498-a1eb-dc9cee0314c3",
+        "email": "Mekhi.Stokes78@yahoo.com",
+        "firstName": "Flavio",
+        "lastName": "Turcotte",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1165.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "38e1f36b-f27a-4949-95b2-ad6b94d76d97",
+        "email": "Chyna_Jenkins@gmail.com",
+        "firstName": "Hillard",
+        "lastName": "Heaney",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/3834259",
+        "tenantId": null
+      },
+      {
+        "reference": "4b59fdce-91ed-4b4e-a07c-8289be6fe3d9",
+        "email": "Lorenza.Gutmann@yahoo.com",
+        "firstName": "Lucinda",
+        "lastName": "Conn",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/99553463",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "report": [
+      {
+        "id": "5604352c-7838-461f-b578-de4a2e6f4086",
+        "date_time": "2023-08-16T08:07:27.085Z",
+        "type_of_issue": "Bug",
+        "description": "This is a description of the issue",
+        "location": "Homepage",
+        "status": "Open",
+        "created_at": "2023-08-16T06:52:42.730Z",
+        "updated_at": "2023-08-16T03:55:34.706Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "319fbbdb-0b73-45ed-b495-dafbcbf861bb",
+        "date_time": "2023-08-16T04:37:27.173Z",
+        "type_of_issue": "Error",
+        "description": "The problem occurred during testing",
+        "location": "Dashboard",
+        "status": "In Progress",
+        "created_at": "2023-08-16T07:13:37.334Z",
+        "updated_at": "2023-08-16T07:00:14.155Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "1019456a-08a8-4b5c-8c72-040ab00e95f3",
+        "date_time": "2023-08-16T00:55:01.806Z",
+        "type_of_issue": "Issue",
+        "description": "The bug affects the functionality",
+        "location": "Settings",
+        "status": "Resolved",
+        "created_at": "2023-08-15T23:27:29.805Z",
+        "updated_at": "2023-08-15T23:02:54.970Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "9208f0e0-0232-4775-a0c9-b563087ed324",
+        "date_time": "2023-08-15T22:39:07.594Z",
+        "type_of_issue": "Problem",
+        "description": "Error message displayed is incorrect",
+        "location": "Profile",
+        "status": "Closed",
+        "created_at": "2023-08-15T12:58:19.603Z",
+        "updated_at": "2023-08-16T02:32:42.147Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "3384928a-6707-4f03-b62c-697e7da03986",
+        "date_time": "2023-08-15T15:37:30.979Z",
+        "type_of_issue": "Defect",
+        "description": "Issue needs to be resolved",
+        "location": "Reports",
+        "status": "Pending",
+        "created_at": "2023-08-15T18:41:37.761Z",
+        "updated_at": "2023-08-16T05:52:36.693Z",
+        "reporter_id": "user_entity_pk"
+      }
+    ],
+    "feedback": [
+      {
+        "id": "8123d1e9-afae-49fb-868b-a8ab2009380c",
+        "message": "Great job!",
+        "created_at": "2023-08-15T22:15:22.327Z",
+        "updated_at": "2023-08-16T04:44:42.380Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4af7581b-6587-44d4-bcb2-3a9e8ac61d6e",
+        "message": "I have a suggestion",
+        "created_at": "2023-08-15T16:16:39.407Z",
+        "updated_at": "2023-08-16T00:17:18.398Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "080bb744-b3ae-443b-8888-b26fdfaadaf4",
+        "message": "The service is excellent",
+        "created_at": "2023-08-16T04:56:23.687Z",
+        "updated_at": "2023-08-16T02:30:39.027Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7788f24d-41b3-41b1-8998-e3ae0e28c37d",
+        "message": "Thank you for your assistance",
+        "created_at": "2023-08-15T17:46:31.398Z",
+        "updated_at": "2023-08-15T21:45:04.665Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "14879726-2771-4bc2-bbc9-bab17567fc53",
+        "message": "I encountered an issue",
+        "created_at": "2023-08-16T00:10:27.214Z",
+        "updated_at": "2023-08-15T20:02:53.864Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "d44fad58-7172-4ffa-a3f8-e8067136ec6b",
+        "email": "Doyle.Grant75@hotmail.com",
+        "firstName": "Rhett",
+        "lastName": "Goodwin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/83363349",
+        "tenantId": null
+      },
+      {
+        "reference": "3042f3ae-37ba-4bae-a12f-fd04d587a57d",
+        "email": "Bettye60@yahoo.com",
+        "firstName": "Mario",
+        "lastName": "Klocko",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/419.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7b2ef6d2-366b-4ca7-a7c2-c528d507de8e",
+        "email": "Major.Ferry88@gmail.com",
+        "firstName": "Jessica",
+        "lastName": "Denesik",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69066971",
+        "tenantId": null
+      },
+      {
+        "reference": "3733cc3e-96ef-4f24-ba31-11a1e03eb057",
+        "email": "Sebastian.Toy@yahoo.com",
+        "firstName": "Jefferey",
+        "lastName": "Runte",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/14228808",
+        "tenantId": null
+      },
+      {
+        "reference": "6a7797af-2376-4f80-a4b1-7556151e3432",
+        "email": "Angelo.Runolfsdottir@gmail.com",
+        "firstName": "Murl",
+        "lastName": "Mann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/87128098",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "report": [
+      {
+        "id": "6adc9256-ab8c-4b9a-a130-74f64f7c9140",
+        "date_time": "2023-08-16T03:52:09.862Z",
+        "type_of_issue": "Bug",
+        "description": "This is a description of the issue",
+        "location": "Homepage",
+        "status": "Open",
+        "created_at": "2023-08-16T10:27:06.219Z",
+        "updated_at": "2023-08-16T04:01:52.710Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "7f25e6b6-b7fd-4883-827f-ee37a5ae7d52",
+        "date_time": "2023-08-15T21:15:08.881Z",
+        "type_of_issue": "Error",
+        "description": "The problem occurred during testing",
+        "location": "Dashboard",
+        "status": "In Progress",
+        "created_at": "2023-08-15T13:53:10.463Z",
+        "updated_at": "2023-08-16T09:34:10.105Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "fc63ca93-74dd-4f39-a951-75019eb20b24",
+        "date_time": "2023-08-15T17:04:02.944Z",
+        "type_of_issue": "Issue",
+        "description": "The bug affects the functionality",
+        "location": "Settings",
+        "status": "Resolved",
+        "created_at": "2023-08-16T10:19:27.138Z",
+        "updated_at": "2023-08-16T00:41:21.838Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "5649e3fb-027c-4398-a3fd-6f7e8466e03e",
+        "date_time": "2023-08-16T01:55:11.724Z",
+        "type_of_issue": "Problem",
+        "description": "Error message displayed is incorrect",
+        "location": "Profile",
+        "status": "Closed",
+        "created_at": "2023-08-15T21:05:53.936Z",
+        "updated_at": "2023-08-16T06:57:07.709Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "5ed47613-ac7c-4afe-98c2-7eef94d09cf1",
+        "date_time": "2023-08-15T15:22:14.612Z",
+        "type_of_issue": "Defect",
+        "description": "Issue needs to be resolved",
+        "location": "Reports",
+        "status": "Pending",
+        "created_at": "2023-08-15T18:39:47.733Z",
+        "updated_at": "2023-08-15T12:49:24.340Z",
+        "reporter_id": "user_entity_pk"
+      }
+    ],
+    "feedback": [
+      {
+        "id": "04002e81-eea5-4db4-927f-bbe6b9bfa379",
+        "message": "Great job!",
+        "created_at": "2023-08-15T13:39:28.771Z",
+        "updated_at": "2023-08-15T12:56:38.357Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6a62ef56-4df1-4bf5-88ef-dbd9e5bb6938",
+        "message": "I have a suggestion",
+        "created_at": "2023-08-16T01:11:21.757Z",
+        "updated_at": "2023-08-15T20:53:03.711Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e2803412-c68a-44c8-a905-c1352aff5d9f",
+        "message": "The service is excellent",
+        "created_at": "2023-08-15T21:43:20.177Z",
+        "updated_at": "2023-08-15T23:17:26.107Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e3631eb0-4173-42f4-90fd-dbe653d0dd04",
+        "message": "Please improve the user interface",
+        "created_at": "2023-08-16T00:32:04.261Z",
+        "updated_at": "2023-08-16T10:22:36.079Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "97ea7f46-cc0b-43f5-afd9-61507a4e4cb8",
+        "message": "Thank you for your assistance",
+        "created_at": "2023-08-15T20:49:50.384Z",
+        "updated_at": "2023-08-15T22:42:57.386Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "72befcae-6d3c-4059-890a-0ecc9fed91e9",
+        "email": "Beulah_Bergnaum55@yahoo.com",
+        "firstName": "Gerda",
+        "lastName": "Windler",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96716005",
+        "tenantId": null
+      },
+      {
+        "reference": "c996b53e-bf9a-4aef-9969-aa15b102e81e",
+        "email": "Lorenzo_Gusikowski@yahoo.com",
+        "firstName": "Ashleigh",
+        "lastName": "Schamberger",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/27284735",
+        "tenantId": null
+      },
+      {
+        "reference": "ab9d6495-994c-4a57-b8a9-01a58b6ba8dd",
+        "email": "Roscoe.Spencer@gmail.com",
+        "firstName": "Julie",
+        "lastName": "Wisozk",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/59328677",
+        "tenantId": null
+      },
+      {
+        "reference": "29b34e59-366b-44db-b9e7-b54ad1a99ebc",
+        "email": "Ebony.Konopelski98@hotmail.com",
+        "firstName": "Merl",
+        "lastName": "Hoppe",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/9617610",
+        "tenantId": null
+      },
+      {
+        "reference": "4c2c382a-a9e6-4229-b5aa-fd25e568ee2e",
+        "email": "Unique.Mayert88@hotmail.com",
+        "firstName": "Nestor",
+        "lastName": "Herzog",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/98294174",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "report": [
+      {
+        "id": "bd295778-f9dd-4a1c-9ba0-bb0580b06e2c",
+        "date_time": "2023-08-16T04:04:14.406Z",
+        "type_of_issue": "Bug",
+        "description": "This is a description of the issue",
+        "location": "Homepage",
+        "status": "Open",
+        "created_at": "2023-08-15T16:57:14.192Z",
+        "updated_at": "2023-08-15T12:25:36.635Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "7fb9d24a-f616-49fe-be71-f63fd07285b1",
+        "date_time": "2023-08-16T06:41:43.882Z",
+        "type_of_issue": "Error",
+        "description": "The problem occurred during testing",
+        "location": "Settings page",
+        "status": "In Progress",
+        "created_at": "2023-08-16T04:48:47.584Z",
+        "updated_at": "2023-08-16T06:27:06.623Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "512e8748-5908-4889-90a3-678eebb0a522",
+        "date_time": "2023-08-15T21:04:16.877Z",
+        "type_of_issue": "Issue",
+        "description": "The bug affects the functionality",
+        "location": "Contact form",
+        "status": "Resolved",
+        "created_at": "2023-08-16T07:07:14.903Z",
+        "updated_at": "2023-08-15T11:58:45.848Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "094145c8-28a2-47db-9990-b7a02c58a670",
+        "date_time": "2023-08-16T05:39:38.803Z",
+        "type_of_issue": "Problem",
+        "description": "Error message displayed is incorrect",
+        "location": "Product page",
+        "status": "Closed",
+        "created_at": "2023-08-16T02:13:24.302Z",
+        "updated_at": "2023-08-16T06:51:31.489Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "24d45dd8-8049-41b0-9b3e-b86e86a3f3a1",
+        "date_time": "2023-08-16T03:43:59.117Z",
+        "type_of_issue": "Defect",
+        "description": "The issue is reproducible",
+        "location": "Checkout process",
+        "status": "Pending",
+        "created_at": "2023-08-15T20:18:39.816Z",
+        "updated_at": "2023-08-16T00:08:25.373Z",
+        "reporter_id": "user_entity_pk"
+      }
+    ],
+    "feedback": [
+      {
+        "id": "54fa1e88-6cd0-4b96-999e-868ac18722e5",
+        "message": "Great job!",
+        "created_at": "2023-08-15T14:56:18.873Z",
+        "updated_at": "2023-08-16T04:21:35.145Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1a5103dd-f5e0-47f2-acce-e3b27d124480",
+        "message": "I have a suggestion",
+        "created_at": "2023-08-15T23:26:49.074Z",
+        "updated_at": "2023-08-15T12:45:58.886Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "25e7288d-7875-472b-9cc9-80f7eea1cbed",
+        "message": "The service is excellent",
+        "created_at": "2023-08-15T18:15:03.977Z",
+        "updated_at": "2023-08-15T20:27:28.961Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8afd16a4-b6d3-4e20-8142-3b675a3eee53",
+        "message": "Thank you for your support",
+        "created_at": "2023-08-15T19:13:39.972Z",
+        "updated_at": "2023-08-16T05:51:15.492Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2c87e7a1-c2a9-4e32-ada1-0a2a7765127f",
+        "message": "I encountered an issue",
+        "created_at": "2023-08-15T21:48:02.071Z",
+        "updated_at": "2023-08-16T09:52:15.159Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "e2c2f469-e07c-45c4-9bd1-7d51bda6d607",
+        "email": "Jefferey.Quigley87@hotmail.com",
+        "firstName": "Maynard",
+        "lastName": "Weber",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/70292768",
+        "tenantId": null
+      },
+      {
+        "reference": "73fe9ac5-0b4a-4653-b87a-f37140b1309f",
+        "email": "Samson.Sawayn@hotmail.com",
+        "firstName": "Bobbie",
+        "lastName": "Morissette",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/256.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "94c88656-a478-42dd-a0f6-dc78551438e4",
+        "email": "Haylee.Keeling3@gmail.com",
+        "firstName": "Jace",
+        "lastName": "Green",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/754.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "43e69d8a-4b9c-4624-89b7-600e1eff02ca",
+        "email": "Marion_Runolfsdottir2@hotmail.com",
+        "firstName": "Dallas",
+        "lastName": "Tillman",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/335.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "11bad355-f8e5-47c5-af1e-441cfc11efc4",
+        "email": "Herminio40@hotmail.com",
+        "firstName": "Kattie",
+        "lastName": "Powlowski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/202.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "report": [
+      {
+        "id": "e143b0c5-000a-4e08-b8c2-04fcfe1d5966",
+        "date_time": "2023-08-16T08:48:00.687Z",
+        "type_of_issue": "Bug",
+        "description": "This is a description of the issue",
+        "location": "Homepage",
+        "status": "Open",
+        "created_at": "2023-08-15T12:44:19.421Z",
+        "updated_at": "2023-08-15T23:00:43.109Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "bcf91557-402b-4f04-8a1b-bcce8c725ffd",
+        "date_time": "2023-08-16T06:46:00.489Z",
+        "type_of_issue": "Error",
+        "description": "The problem occurred during testing",
+        "location": "Settings page",
+        "status": "In Progress",
+        "created_at": "2023-08-15T22:24:56.239Z",
+        "updated_at": "2023-08-16T03:04:43.060Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "8a7d07b1-57e9-4a7b-a8ab-ed553b382a4e",
+        "date_time": "2023-08-15T15:52:44.729Z",
+        "type_of_issue": "Issue",
+        "description": "The bug affects the functionality",
+        "location": "Dashboard",
+        "status": "Resolved",
+        "created_at": "2023-08-15T12:01:14.295Z",
+        "updated_at": "2023-08-16T06:19:29.659Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "1af6811d-8f51-455b-858d-87a481658f57",
+        "date_time": "2023-08-15T23:00:43.941Z",
+        "type_of_issue": "Problem",
+        "description": "Error message displayed is incorrect",
+        "location": "Contact form",
+        "status": "Closed",
+        "created_at": "2023-08-15T23:16:01.486Z",
+        "updated_at": "2023-08-15T12:57:51.864Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "4ebdf7da-a730-4dc9-b11b-a683fdbb17e9",
+        "date_time": "2023-08-16T07:09:13.697Z",
+        "type_of_issue": "Defect",
+        "description": "Issue found in the latest release",
+        "location": "Product page",
+        "status": "Pending",
+        "created_at": "2023-08-15T12:00:47.123Z",
+        "updated_at": "2023-08-15T16:17:22.609Z",
+        "reporter_id": "user_entity_pk"
+      }
+    ],
+    "feedback": [
+      {
+        "id": "3a8a0580-3f3f-4fe8-9c82-65cf9533f771",
+        "message": "Great job!",
+        "created_at": "2023-08-15T19:12:39.296Z",
+        "updated_at": "2023-08-16T07:40:02.209Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dcb9ce84-957f-4283-a0e6-4a5cbc26b230",
+        "message": "I have a suggestion",
+        "created_at": "2023-08-16T07:31:08.703Z",
+        "updated_at": "2023-08-15T17:46:26.564Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ab675920-a856-423d-a220-4a4a2d250e6f",
+        "message": "The website looks amazing",
+        "created_at": "2023-08-16T01:30:20.409Z",
+        "updated_at": "2023-08-16T07:28:35.470Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ca59846d-1229-425f-bf92-d5a7e6ad4ead",
+        "message": "I encountered an issue",
+        "created_at": "2023-08-16T03:55:28.891Z",
+        "updated_at": "2023-08-15T20:24:15.456Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fb61f096-72b9-4e1d-9a21-a9e1f421a6ca",
+        "message": "Thank you for your support",
+        "created_at": "2023-08-15T16:01:35.973Z",
+        "updated_at": "2023-08-15T13:00:52.717Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "58d8c496-d14d-4341-84b7-864d8285c982",
+        "email": "Scottie21@yahoo.com",
+        "firstName": "Haylee",
+        "lastName": "Heathcote",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12827011",
+        "tenantId": null
+      },
+      {
+        "reference": "ec9388d9-2246-4c7f-b596-fce639518582",
+        "email": "Christiana47@gmail.com",
+        "firstName": "Marie",
+        "lastName": "Bechtelar-Conn",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/82236438",
+        "tenantId": null
+      },
+      {
+        "reference": "1865fb9c-95eb-498f-b103-35ebee7d5c4b",
+        "email": "Maegan_Lang@gmail.com",
+        "firstName": "Ernestine",
+        "lastName": "Strosin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/4485028",
+        "tenantId": null
+      },
+      {
+        "reference": "ad8c4f90-c582-4b20-b983-63883b57383f",
+        "email": "Ashly20@gmail.com",
+        "firstName": "Aaliyah",
+        "lastName": "Spinka",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1101.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "764394ee-7dae-44e2-9d30-fa6c2e431612",
+        "email": "Gudrun33@yahoo.com",
+        "firstName": "Breanna",
+        "lastName": "Rath",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/80205847",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "report": [
+      {
+        "id": "6e8d17ac-2c97-4d0d-9e89-eee1d8d972a9",
+        "date_time": "2023-08-15T14:39:09.573Z",
+        "type_of_issue": "Bug",
+        "description": "This is a description of the issue",
+        "location": "Homepage",
+        "status": "Open",
+        "created_at": "2023-08-16T08:30:14.526Z",
+        "updated_at": "2023-08-16T05:43:24.494Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "7e70ddae-85fb-4515-8897-bdf0338f92a0",
+        "date_time": "2023-08-15T23:52:42.576Z",
+        "type_of_issue": "Error",
+        "description": "The problem occurred during testing",
+        "location": "Settings page",
+        "status": "In Progress",
+        "created_at": "2023-08-16T05:18:18.070Z",
+        "updated_at": "2023-08-16T03:01:55.120Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "9a86cb65-ac63-4f9f-a80e-004ec9aec8f4",
+        "date_time": "2023-08-15T18:06:36.450Z",
+        "type_of_issue": "Issue",
+        "description": "The bug affects the functionality",
+        "location": "Dashboard",
+        "status": "Resolved",
+        "created_at": "2023-08-15T18:45:08.340Z",
+        "updated_at": "2023-08-16T04:01:06.242Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "c7d8aa67-bfae-4799-ac2e-aea797095f6e",
+        "date_time": "2023-08-15T20:44:01.815Z",
+        "type_of_issue": "Problem",
+        "description": "Error message displayed is incorrect",
+        "location": "Contact form",
+        "status": "Closed",
+        "created_at": "2023-08-16T10:41:57.169Z",
+        "updated_at": "2023-08-16T03:49:07.178Z",
+        "reporter_id": "user_entity_pk"
+      },
+      {
+        "id": "8e2702b0-01ac-4fc5-819b-ff124a4b4054",
+        "date_time": "2023-08-15T21:58:09.093Z",
+        "type_of_issue": "Defect",
+        "description": "Issue found in the latest release",
+        "location": "Product page",
+        "status": "Pending",
+        "created_at": "2023-08-15T19:59:42.034Z",
+        "updated_at": "2023-08-15T14:24:19.028Z",
+        "reporter_id": "user_entity_pk"
+      }
+    ],
+    "feedback": [
+      {
+        "id": "6111b32e-2f64-4485-bc59-a632cee0b4f2",
+        "message": "Great job!",
+        "created_at": "2023-08-16T08:32:51.687Z",
+        "updated_at": "2023-08-16T10:50:21.307Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "162638b8-3b6d-43ee-874f-be215d787a48",
+        "message": "I have a suggestion",
+        "created_at": "2023-08-16T04:55:17.159Z",
+        "updated_at": "2023-08-16T05:29:38.247Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "efc176d8-75e1-453f-876f-faca6852d765",
+        "message": "The website looks amazing",
+        "created_at": "2023-08-15T22:53:45.196Z",
+        "updated_at": "2023-08-15T15:59:09.424Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0f77a7e2-051c-4a81-9b7d-4bca249f0877",
+        "message": "I encountered an issue",
+        "created_at": "2023-08-15T23:52:59.268Z",
+        "updated_at": "2023-08-15T12:06:46.786Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "21904ff4-a759-4fd7-bea9-8c92aa3a47b2",
+        "message": "Thank you for your support",
+        "created_at": "2023-08-16T06:02:05.870Z",
+        "updated_at": "2023-08-15T17:20:28.002Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "244acfdc-5187-4257-aff9-673f9ac70488",
+        "email": "Lesly79@yahoo.com",
+        "firstName": "Felicity",
+        "lastName": "Kihn",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29419144",
+        "tenantId": null
+      },
+      {
+        "reference": "38497598-6dc4-4377-b817-b8b3445debe1",
+        "email": "Jannie_Kris@gmail.com",
+        "firstName": "Richmond",
+        "lastName": "Ernser",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/422.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a24d30bf-d274-4470-bb87-d695bf264da9",
+        "email": "Kevon49@hotmail.com",
+        "firstName": "Okey",
+        "lastName": "Abernathy",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/929.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b975ecb3-78a5-4939-b919-79d890bde385",
+        "email": "Mario.Gleason@gmail.com",
+        "firstName": "Janiya",
+        "lastName": "Feest",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53156190",
+        "tenantId": null
+      },
+      {
+        "reference": "a66ed338-fdb3-4fb6-a027-764c2df71e5e",
+        "email": "Haley.Bauch@hotmail.com",
+        "firstName": "Jacey",
+        "lastName": "Donnelly",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/220.jpg",
+        "tenantId": null
+      }
+    ]
+  }
+]
